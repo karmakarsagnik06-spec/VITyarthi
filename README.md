@@ -34,6 +34,3 @@ This project is a simple console-based Attendance Management System that allows 
 2. Choose **option 2** to view all stored records  
 3. Choose **option 3** to search for a student  
 4. Verify changes and entries in the CSV file  
-
-## Screenshots
-*(Add your project screenshots here)*  
